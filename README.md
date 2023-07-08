@@ -1,0 +1,2 @@
+# Truncate
+truncate table
